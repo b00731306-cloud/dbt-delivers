@@ -15,3 +15,6 @@ This is a practice repository for transforming a dataset on Food Delivery in Fra
 
 That is so funny! :joy:
 
+![alt text][photo]
+
+[photo]: /Users/benjaminpresset/BP_Wagon/code/Benjamin21/dbt-delivers/9321345.png
