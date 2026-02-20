@@ -18,3 +18,5 @@ That is so funny! :joy:
 ![alt text][photo]
 
 [photo]: /Users/benjaminpresset/BP_Wagon/code/Benjamin21/dbt-delivers/9321345.png
+
+La photo ne fonctionne pas
